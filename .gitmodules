@@ -5,5 +5,5 @@
 	path = docs/extras
 	url = https://github.com/ktock/demo-images-extra.git
 [submodule "docs/stargz"]
-	path = docs/extras
+	path = docs/startz
 	url = https://github.com/orgs/stargz-containers/packages
