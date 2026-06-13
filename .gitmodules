@@ -1,0 +1,9 @@
+[submodule "docs/containers"]
+	path = docs/containers
+	url = https://github.com/ktock/demo-images
+[submodule "docs/extras"]
+	path = docs/extras
+	url = https://github.com/ktock/demo-images-extra.git
+[submodule "docs/stargz"]
+	path = docs/extras
+	url = https://github.com/orgs/stargz-containers/packages
