@@ -1,6 +1,6 @@
 // sw.js
       console.log('sw.js');
-  console.log(document.domain);
+
 const CACHE_NAME = 'my-cache-v1';
 const ASSETS_TO_CACHE = [
   '/',
